@@ -11,11 +11,11 @@ Which products and discount levels are hurting profit,
 and what should the business change?
 
 ## Key Results
-Metric       Value
-Total sales  $2,297,201
-Total profit  $286,397
-Profit margin  12.47%
-Orders         5,009
+Metric       - Value
+Total sales  - $2,297,201
+Total profit  - $286,397
+Profit margin  - 12.47%
+Orders         - 5,009
 
 ## Key Findings
 1. Discounts above 20% destroy profit. 1,393 order
